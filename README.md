@@ -11,4 +11,4 @@
 
 ## How to Run?
 _Download the repository and database, then import database to PHPMySQL, and put all files in 'www' folder of WAMP software under new folder 'Health_Management_System'._<br>
-Or simply visit 
+Or simply visit https://sadam452.github.io/Health_Management_System/
